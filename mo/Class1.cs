@@ -8,5 +8,6 @@ namespace mo
 {
     public class Class1
     {
+        int q = 123;
     }
 }
